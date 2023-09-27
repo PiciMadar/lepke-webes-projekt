@@ -1,0 +1,54 @@
+h1{
+    color: white;
+    text-align: center;
+}
+
+#elsob{
+    background-color: darkslategray;
+}
+
+#elsot{
+    margin: auto;
+    width: 640px;
+    background-image: url(hatter.jpg);
+}
+
+td{
+    margin: 5px;
+    margin-right: 0px;
+}
+
+img{
+    border: 2px solid black;
+}
+
+#elsoah:link, #elsoah:visited{
+    color: black;
+
+}
+
+.nincskeret{
+    border: 0px;
+}
+
+#ejjelitablazat{
+    background-color: darkslategray;
+}
+
+#masodikh1 {
+    color: black;
+}
+
+#masodikah:link, #masodikah:visited{
+    color: white;
+}
+
+#k2{
+    float: right;
+}
+
+#k3{
+    display:block;
+    margin-right: 0px;
+    float: left;
+}
